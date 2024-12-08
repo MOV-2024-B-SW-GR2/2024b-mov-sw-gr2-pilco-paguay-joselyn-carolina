@@ -1,0 +1,2 @@
+idDoc: 1; nombreDoc: Joselyn Carolina P; especialidad: Obstretricia; anosDeExperiencia: 2.0; certificadoActivo: true
+    idPac: 1; nombrePac: Kevin ; edad: 13; altura: 1.5; peso: 40.0; historialMedico: tos
