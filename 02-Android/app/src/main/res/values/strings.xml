@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">gr2sw2024b_jcpp</string>
+    <string name="titulo">Hola Mundo</string>
+    <color name="fondo">#123456</color>
+</resources>

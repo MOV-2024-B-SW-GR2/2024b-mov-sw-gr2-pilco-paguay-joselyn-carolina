@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Hola Mundo-Lands</string>
+    <color name="fondo">#BF5906</color>
+    <color name="fuente">#0923C1</color>
+
+</resources>

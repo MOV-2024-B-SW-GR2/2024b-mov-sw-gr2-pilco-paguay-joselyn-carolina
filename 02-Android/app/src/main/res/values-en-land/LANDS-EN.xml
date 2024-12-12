@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Hi World Lands</string>
+    <color name="fondo">#0BBF42</color>
+    <color name="fuente">#E91E63</color>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Hola  mundo</string>
+    <color name="fondo">#FFC107</color>
+    <color name="fuente">#F3213A</color>
+</resources>
