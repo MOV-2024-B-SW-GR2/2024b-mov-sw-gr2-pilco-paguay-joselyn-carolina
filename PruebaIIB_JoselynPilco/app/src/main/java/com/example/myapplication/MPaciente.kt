@@ -1,14 +1,14 @@
 package com.example.myapplication
 
 class MPaciente (
+    val pk: Int,
     val id: Int,
     val nombre: String?,
     val edad: Int,
     val altura: Double,
     val peso: Float,
-    val historialMedico: List<String>
 ){
     override fun toString(): String {
-        return "$nombre"
+        return "$nombre, $edad, $altura"
     }
 }

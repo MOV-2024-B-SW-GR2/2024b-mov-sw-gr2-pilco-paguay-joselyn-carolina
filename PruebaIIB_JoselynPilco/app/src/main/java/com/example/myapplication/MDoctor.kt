@@ -2,7 +2,7 @@ package com.example.myapplication
 
 class MDoctor (
     val id: Int,
-    val nombre: String?,
+    var nombre: String?,
     val especialidad: String?,
     val anosDeExperiencia: Float,
     val certificadoActivo: Boolean,
