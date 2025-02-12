@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenBimestral_Pilco</string>
+    <string name="nombreDoctor">Doctor: </string>
+    <string name="title_activity_google_maps_helper">GoogleMapsHelper</string>
+</resources>

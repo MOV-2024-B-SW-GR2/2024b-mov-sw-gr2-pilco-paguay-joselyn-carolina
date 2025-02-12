@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959600626992",
+    "project_id": "mov-2024b-sw-gr2-tpda",
+    "storage_bucket": "mov-2024b-sw-gr2-tpda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959600626992:android:665839deab47094a298cf5",
+        "android_client_info": {
+          "package_name": "com.example.examenbimestral_pilco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw50T2pteC39nBJcZyfRmWKQDCC_2Mkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959600626992:android:34f21479b3545449298cf5",
+        "android_client_info": {
+          "package_name": "com.example.gr2sw2024b_datp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw50T2pteC39nBJcZyfRmWKQDCC_2Mkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
