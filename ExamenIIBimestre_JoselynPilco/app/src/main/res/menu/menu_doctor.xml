@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_editar_doctor"
+        android:title="Editar" />
+    <item
+        android:id="@+id/mi_eliminar_doctor"
+        android:title="Eliminar" />
+    <item
+        android:id="@+id/mi_ver_paciente_doctor"
+        android:title="Ver paciente" />
+    <item
+        android:id="@+id/mi_ver_ubicacion"
+        android:title="Ver ubicacion" />
+</menu>
